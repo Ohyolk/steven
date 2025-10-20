@@ -1,0 +1,44 @@
+1.
+Exoplanets 
+Black holes
+Climate change
+AI
+Probability and statistics
+
+2.
+Exoplanets
+
+Dataset: NASA Exoplanet Archive (public online).
+This dataset lists all the planets that have been discovered outside our solar system. 
+It includes each planet’s size, distance from its star, and other details. 
+I can use it to make graphs that compare planet size or orbit distance.
+
+Climate Change / Air Quality
+
+Tool: OpenAQ API (global air-quality data).
+
+Summary: This site collects real air-quality data from many countries. 
+It has information on air pollutants. 
+I could use it to see which cities have cleaner or dirtier air, or how pollution changes over time.
+
+Probability and Statistics
+
+Dataset: Pokémon TCG All Cards 1999–2023 (from Kaggle).
+This dataset includes almost every Pokémon card with details like name, type, rarity, HP, and release year. 
+I can use it to see how cards have changed over time, which types have the highest HP, or which sets have the rarest cards.
+
+I chose Pokémon cards because I love collecting them, and I think it would be really fun to turn that into a data project. 
+I could use Python to find patterns in card stats or make visual charts about rarity and value.
+
+3.
+Lists and dictionaries to store Pokémon cards and their stats
+Loops (for loops) to go through all the cards
+Conditionals (if statements) to check things like if a card is rare or common
+Functions to organize my code and do things like calculate averages
+pandas to make it easier to sort and filter card data
+matplotlib to make bar charts and scatter plots
+GitHub to save my work and keep track of versions
+
+4.
+dream version: parkour platformer game
+possible version: Pokémon Card Data Visualization
