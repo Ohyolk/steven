@@ -1,4 +1,4 @@
-,Mercury,Venus,Earth,Moon,Mars,Jupiter,Saturn,Uranus,Neptune,Pluto
+Attribute,Mercury,Venus,Earth,Moon,Mars,Jupiter,Saturn,Uranus,Neptune,Pluto
 Mass (10^24kg),0.330,4.87,5.97,0.073,0.642,1898,568,86.8,102,0.0130
 Diameter (km),4879,12104,12756,3475,6792,142984,120536,51118,49528,2376
 Density (kg/m^3),5429,5243,5514,3340,3934,1326,687,1270,1638,1850
@@ -19,4 +19,3 @@ Surface Pressure (bars),0,92,1,0,0.01,Unknown,Unknown,Unknown,Unknown,0.00001
 Number of Moons,0,0,1,0,2,95,274,28,16,5
 Ring System?,No,No,No,No,No,Yes,Yes,Yes,Yes,No
 Global Magnetic Field?,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Unknown
-Semi-major axis (AU),57.9,108.2,149.6,0.3845,228.0,778.5,1432.05,2867.05,4515.0,5906.35
